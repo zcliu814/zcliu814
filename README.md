@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m zcliu814
 
-- 👋 Hi, I’m zcliu814
--👀 I’m interested in Pyhton&KG
+
+- 👀 I’m interested in Pyhton&KG
 - 🌱 I’m currently learning ML&DL
 - 💞️ I’m looking to collaborate on NLP
 - 💬 Ask me about anything
